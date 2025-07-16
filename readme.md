@@ -12,3 +12,9 @@ A simple and interactive shopping cart web application built using modern web te
 ## Tech Stack
 
 HTML, CSS, JavaScript
+
+## Screenshots
+
+![screenshots](https://github.com/SunilKumarSharma129/Shopping-Cart/blob/8af680b797b938f91bfdf815f82c972381100008/image-01.jpeg)
+
+ 

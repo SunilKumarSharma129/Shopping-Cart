@@ -19,4 +19,8 @@ HTML, CSS, JavaScript
 ![screenshots2](https://github.com/SunilKumarSharma129/Shopping-Cart/blob/01cff088b05f5b01a9a2c91475b0e487487c37bc/image-02.jpeg)
 ![screenshots3](https://github.com/SunilKumarSharma129/Shopping-Cart/blob/756430c73be14ddbc80045d59145b0fe67fd1e66/image-03.jpeg)
 
+## Authors
+
+- [@SunilKumarSharma129](https://github.com/SunilKumarSharma129)
+
  

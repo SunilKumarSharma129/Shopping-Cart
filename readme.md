@@ -17,5 +17,6 @@ HTML, CSS, JavaScript
 
 ![screenshots](https://github.com/SunilKumarSharma129/Shopping-Cart/blob/8af680b797b938f91bfdf815f82c972381100008/image-01.jpeg)
 ![screenshots2](https://github.com/SunilKumarSharma129/Shopping-Cart/blob/01cff088b05f5b01a9a2c91475b0e487487c37bc/image-02.jpeg)
+![screenshots3](https://github.com/SunilKumarSharma129/Shopping-Cart/blob/756430c73be14ddbc80045d59145b0fe67fd1e66/image-03.jpeg)
 
  
